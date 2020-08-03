@@ -1,4 +1,3 @@
-![atardecer en casa](./house.png)
 
 # ¡Hola Bienvenido! 👋🏻
 
@@ -14,7 +13,7 @@ Actualmente no estoy trabajando para ninguna empresa, pero estoy en búsqueda �
 #### ¿Cosas que me gustan?
 
 - El mate mi amigo fiel 🧉
-- Los escritorios de madera bien rústico (Aún no lo tengo 😆)
+- Los escritorios de madera bien rústicos (Aún no lo tengo 😆)
 - La musica electrónica especialmente el:
   - Deep House
   - Progressive House
