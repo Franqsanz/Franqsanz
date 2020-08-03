@@ -1,4 +1,4 @@
-![atardecer en casa](/house.png)
+![atardecer en casa](./house.png)
 
 # ¡Hola Bienvenido! 👋🏻
 
@@ -8,7 +8,8 @@
 
 Un desarrollador web que le encanta este increíble mundo de la tecnología.
 Soy de Córdoba, Argentina. Tengo 23 años y vivo en el campo. 🌽
-Actualmente no estoy trabajando para ninguna empresa, pero estoy en búsqueda 🧐, para así cumplir mi sueño de trabajar en tecnologia.
+
+Actualmente no estoy trabajando para ninguna empresa, pero estoy en búsqueda 🧐, para así cumplir mi sueño de trabajar en tecnología.
 
 #### ¿Cosas que me gustan?
 
