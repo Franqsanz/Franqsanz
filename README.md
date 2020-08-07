@@ -1,4 +1,4 @@
-![casa](https://github.com/Franqsanz/Franqsanz/casa.png)
+![casa](https://github.com/Franqsanz/Franqsanz/blob/master/casa.png)
 # ¡Hola Mundo! 👋🏻
 
 #### Soy Franco Andrés Sánchez
