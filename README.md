@@ -1,7 +1,7 @@
-![casa](/casa.png)
-# ¡Hola Bienvenido! 👋🏻
+![casa](https://github.com/Franqsanz/Franqsanz/casa.png)
+# ¡Hola Mundo! 👋🏻
 
-### Soy Franco Andrés Sánchez
+#### Soy Franco Andrés Sánchez
 
 Un desarrollador web que le encanta este increíble mundo de la tecnología.
 Soy de Córdoba, Argentina. Tengo 23 años y vivo en el campo. 🌽
