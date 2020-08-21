@@ -6,9 +6,11 @@
 Un desarrollador web que le encanta este increíble mundo de la tecnología.
 Soy de Córdoba, Argentina. Tengo 23 años y vivo en el campo. 🌽
 
-Actualmente no estoy trabajando para ninguna empresa, pero estoy en búsqueda 🧐, para así cumplir mi sueño de trabajar en tecnología.
+Actualmente estoy buscando un rol de desarrollador, para asi incrementar mis habilidades en tecnología.
 
-Mi Stack actual es Node.js 💛
+Disfruto aprender cosas nuevas (aunque aveces de "dolores de cabeza" 😆).
+
+Mi Stack actual es JavaScript. 💛 (Todo lo que sea con JS).
 
 #### También me puedes encontrar en:
 
