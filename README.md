@@ -12,7 +12,7 @@ Disfruto aprender cosas nuevas (aunque aveces de "dolores de cabeza" 🥴).
 
 Hoy en dia estoy muy interesado en la accesibilidad web, es un tema muy importante y que todos deberíamos tener en cuenta.
 
-Y aveces escribo artículos en [Dev.to](https://dev.to/franqsanz).
+Y a veces escribo artículos en [Dev.to](https://dev.to/franqsanz).
 
 Mi stack actual es JavaScript. 💛 (Todo lo que sea con JS).
 
