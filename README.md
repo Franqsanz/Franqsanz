@@ -1,7 +1,7 @@
 ![casa](https://github.com/Franqsanz/Franqsanz/blob/master/casa.png)
 # ¡Hola Mundo! 👋🏻
 
-#### Soy Franco Andrés Sánchez
+## Soy Franco Andrés Sánchez
 
 Un desarrollador web que le encanta este increíble mundo de la tecnología.
 Soy de Córdoba, Argentina. 🌎
@@ -16,7 +16,7 @@ Y a veces escribo artículos en [Dev.to](https://dev.to/franqsanz) y en mi [Blog
 
 Mi stack actual es JavaScript. 💛 (Todo lo que sea con JS).
 
-#### También me puedes encontrar en:
+### También me puedes encontrar en:
 
 - Twitter como [@Franqsanz](https://twitter.com/Franqsanz).
 - Visita mi [Sitio](https://franqsanz.netlify.app/).
