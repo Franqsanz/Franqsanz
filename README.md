@@ -1,4 +1,4 @@
-![casa](https://github.com/Franqsanz/Franqsanz/blob/master/casa.png)
+<!-- ![casa](https://github.com/Franqsanz/Franqsanz/blob/master/casa.png) -->
 
 # 👋🏻 ¡Hola Mundo
 
@@ -8,10 +8,7 @@ Un desarrollador web inmerso en el increíble mundo de la tecnología. Actualmen
 
 Me gusta contribuir al open source, es gratificante poder ayudar en diversos proyectos, en lo personal lo disfruto mucho. El proceso suele venir acompañado de desafíos que considero oportunidades de crecimiento.
 
-Mi objetivo es seguir aprendiendo sobre desarrollo en general, no solo front-end.
-
-Disfruto aprender cosas nuevas, leer sobre tecnología y en vez en cuando escribo en [Dev.to](https://dev.to/franqsanz). \
-También soy un amante de la historia, el café y el mate!
+Disfruto aprender cosas nuevas, leer sobre tecnología y en vez en cuando escribo en [Dev.to](https://dev.to/franqsanz).
 
 ## Languages and Tools
 
